@@ -1,4 +1,4 @@
-# 🤝 Contributing to 100 Days 100 Web Projects
+# 🤝 Contributing to Hackherway 100 Days, 100 Projects!
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 </div>
 
-Thank you for your interest in contributing to **100 Days 100 Web Projects**! We're excited to have you join our community of developers building amazing web projects. This guide will help you get started and make your first contribution.
+Thank you for your interest in contributing to **Hackherway 100 Days, 100 Projects**! We're excited to have you join our community of developers building amazing web projects. This guide will help you get started and make your first contribution.
 
 ## 📋 Table of Contents
 
@@ -61,7 +61,7 @@ cd 100_days_100_web_project
 
 ```bash
 # Add the original repository as upstream
-git remote add upstream https://github.com/dhairyagothi/100_days_100_web_project.git
+git remote add upstream https://github.com/d0midigi/100_days_100_web_project.git
 ```
 
 ### 3. Create a Branch
@@ -446,7 +446,7 @@ Please be respectful and inclusive in all interactions. We strive to create a we
 
 <div align="center">
 
-**🌟 Thank you for contributing to 100 Days 100 Web Projects! 🌟**
+**🌟 Thank you for contributing to Hackherway 100 Days, 100 Projects! 🌟**
 
 **Your contributions help developers worldwide learn and grow!**
 
@@ -509,3 +509,4 @@ We look forward to your contributions and appreciate your effort in helping us i
 By contributing, you agree that your contributions will be licensed under the same license as the project.
 
 Thank you for contributing to 100 Days 100 Web Projects!
+

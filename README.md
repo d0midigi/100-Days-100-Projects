@@ -1,4 +1,4 @@
-# 🚀 100 Days 100 Web Projects
+# 🚀 hackherway 100 Days, 200 Projects
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
@@ -6,20 +6,19 @@
 
 <div align="center">
 
-![100 Days 100 Projects Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&weight=900&pause=1000&color=0FF26C&center=true&width=800&lines=100+Days+100+Web+Projects;Learn+%26+Build+Amazing+Projects;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Node.js)
+![100 Days, 200 Projects Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&weight=900&pause=1000&color=0FF26C&center=true&width=800&lines=100+Days+100+Web+Projects;Learn+%26+Build+Amazing+Projects;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Node.js)
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2F100-days-100-web-project.vercel.app/%2F&style=for-the-badge)](https://100-days-100-web-project.vercel.app/)
-[![Contributors](https://img.shields.io/github/contributors/dhairyagothi/100_days_100_web_project?style=for-the-badge)](https://github.com/dhairyagothi/100_days_100_web_project/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/dhairyagothi/100_days_100_web_project?style=for-the-badge)](https://github.com/dhairyagothi/100_days_100_web_project/network/members)
-[![Stars](https://img.shields.io/github/stars/dhairyagothi/100_days_100_web_project?style=for-the-badge)](https://github.com/dhairyagothi/100_days_100_web_project/stargazers)
-[![Issues](https://img.shields.io/github/issues/dhairyagothi/100_days_100_web_project?style=for-the-badge)](https://github.com/dhairyagothi/100_days_100_web_project/issues)
-[![License](https://img.shields.io/github/license/dhairyagothi/100_days_100_web_project?style=for-the-badge)](LICENSE)
+[![Forks](https://img.shields.io/github/forks/d0midigi/100_days_100_web_project?style=for-the-badge)](https://github.com/d0midigi/100_days_100_web_project/network/members)
+[![Stars](https://img.shields.io/github/stars/d0midigi/100_days_100_web_project?style=for-the-badge)](https://github.com/d0midigi/100_days_100_web_project/stargazers)
+[![Issues](https://img.shields.io/github/issues/d0midigi/100_days_100_web_project?style=for-the-badge)](https://github.com/d0midigi/100_days_100_web_project/issues)
+[![License](https://img.shields.io/github/license/d0midigi/100_days_100_web_project?style=for-the-badge)](LICENSE)
 
 </div>
 
 ## 🌟 About This Project
 
-Welcome to **100 Days 100 Web Projects**! This is a comprehensive collection of **112+ web development projects** ranging from beginner to intermediate level. Our goal is to help developers learn and practice web development through hands-on projects using various technologies.
+Welcome to **hackherway 100 Days, 200 Web Projects**! This is a comprehensive collection of **200+ web development projects** ranging from beginner to intermediate level. Our goal is to help developers learn and practice web development through hands-on projects using various technologies.
 
 ### 🎯 What You'll Find Here:
 - **Frontend Projects**: HTML, CSS, JavaScript, React, Vue.js
@@ -51,7 +50,7 @@ The website features:
 - Beautiful dark/light theme toggle
 - Responsive design for all devices
 
-## 📚 All Projects (112 Total)
+## 📚 All Projects (200+ Total)
 
 <div align="center">
 
@@ -72,17 +71,17 @@ The website features:
 | 8 | Parallel-X Website | HTML, CSS, JS | 🌐 Website | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 9 | Captcha Generator | HTML, CSS, JS | 🔐 Security | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 10 | QR Code Generator | HTML, CSS, JS | 📱 Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
-| 11 | Express Server | Node.js, Express | 🖥️ Backend | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
-| 12 | Gmail Nodemailer | Node.js, Nodemailer | 📧 Backend | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
-| 13 | MERN Login Form | MongoDB, Express, React, Node | 🔐 Full-Stack | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
-| 14 | File Uploader | Node.js, Express | 📁 Utility | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 11 | Express Server | Node.js, Express | 🖥️ Backend | [GitHub](https://github.com/d0midigi/100_days_100_web_project) |
+| 12 | Gmail Nodemailer | Node.js, Nodemailer | 📧 Backend | [GitHub](https://github.com/d0midigi/100_days_100_web_project) |
+| 13 | MERN Login Form | MongoDB, Express, React, Node | 🔐 Full-Stack | [GitHub](https://github.com/d0midigi/100_days_100_web_project) |
+| 14 | File Uploader | Node.js, Express | 📁 Utility | [GitHub](https://github.com/d0midigi/100_days_100_web_project) |
 | 15 | Progress Bar | HTML, CSS, JS | 📊 UI Component | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 16 | Custom Scroll Bar | CSS | 🎨 UI Component | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 17 | Swiper API Slider | HTML, CSS, JS | 🖼️ Slider | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 18 | Carousel Solar System | HTML, CSS, JS | 🪐 Animation | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 19 | Plant Website | HTML, CSS, JS | 🌱 Website | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 20 | EveSparks | HTML, CSS, JS | ✨ Website | [View Demo](https://100-days-100-web-project.vercel.app/) |
-| 21 | React Video Slider | React, Vite | 🎥 React App | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 21 | React Video Slider | React, Vite | 🎥 React App | [GitHub](https://github.com/d0midigi/100_days_100_web_project) |
 | 22 | Page Loader | HTML, CSS, JS | ⏳ Animation | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 23 | Jarvis AI Assistant | HTML, CSS, JS | 🤖 AI | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 24 | AI ChatBot | HTML, CSS, JS | 💬 AI | [View Demo](https://100-days-100-web-project.vercel.app/) |
@@ -99,7 +98,7 @@ The website features:
 | 35 | Vanilla JS Calculator | HTML, CSS, JS | 🧮 Calculator | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 36 | Medical App | HTML, CSS, JS | 🏥 App | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 37 | 2048 Game | HTML, CSS, JS | 🎮 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
-| 38 | GitHub Profile Finder | HTML, CSS, JS, API | 👤 Utility | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 38 | GitHub Profile Finder | HTML, CSS, JS, API | 👤 Utility | [GitHub](https://github.com/d0midigi/100_days_100_web_project) |
 | 39 | Notes App | HTML, CSS, JS | 📝 App | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 40 | Analog Clock | HTML, CSS, JS | ⏰ Widget | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 41 | Scroll Dark Game | HTML, CSS, JS | 🎮 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
@@ -110,14 +109,14 @@ The website features:
 | 46 | Palindrome Generator | HTML, CSS, JS | 📝 Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 47 | Ping Pong Game | HTML, CSS, JS | 🏓 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 48 | Text to Voice Converter | HTML, CSS, JS | 🔊 Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
-| 49 | URL Shortener | Node.js, Express | 🔗 Backend | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
-| 50 | Recipe Genie | React, Node.js | 🍳 Full-Stack | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 49 | URL Shortener | Node.js, Express | 🔗 Backend | [GitHub](https://github.com/d0midigi/100_days_100_web_project) |
+| 50 | Recipe Genie | React, Node.js | 🍳 Full-Stack | [GitHub](https://github.com/d0midigi/100_days_100_web_project) |
 | 51 | Netflix Clone | HTML, CSS, JS | 🎬 Clone | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 52 | ClimaCode 2.0 | HTML, CSS, JS | 🌤️ App | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 53 | E-commerce Cart | HTML, CSS, JS | 🛒 E-commerce | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 54 | Budget Tracker | HTML, CSS, JS | 💰 Finance | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 55 | Cricket Game | HTML, CSS, JS | 🏏 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
-| 56 | Pastebin Clone | Svelte | 📝 App | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 56 | Pastebin Clone | Svelte | 📝 App | [GitHub](https://github.com/d0midigi/100_days_100_web_project) |
 | 57 | Glowing Social Icons | HTML, CSS | ✨ UI Component | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 58 | Music App | HTML, CSS, JS | 🎵 App | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 59 | Blog Page | HTML, CSS, JS | 📝 Blog | [View Demo](https://100-days-100-web-project.vercel.app/) |
@@ -127,13 +126,13 @@ The website features:
 | 63 | Image to Text App | HTML, CSS, JS | 🖼️ OCR | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 64 | Zomato Clone | HTML, CSS, JS | 🍕 Clone | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 65 | The Cube | HTML, CSS | 🎲 3D Animation | [View Demo](https://100-days-100-web-project.vercel.app/) |
-| 66 | Flask Auth App | Python, Flask | 🔐 Backend | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 66 | Flask Auth App | Python, Flask | 🔐 Backend | [GitHub](https://github.com/d0midigi/100_days_100_web_project) |
 | 67 | Blog Website | HTML, CSS, JS | 📝 Blog | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 68 | 3D Rotating Card | HTML, CSS | 🎲 3D Animation | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 69 | Spotify Clone | HTML, CSS, JS | 🎵 Clone | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 70 | Insect Catch Game | HTML, CSS, JS | 🐛 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 71 | Quotely Laughs | HTML, CSS, JS | 😂 Entertainment | [View Demo](https://100-days-100-web-project.vercel.app/) |
-| 72 | Contact Book | Node.js, Express | 📞 Backend | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 72 | Contact Book | Node.js, Express | 📞 Backend | [GitHub](https://github.com/d0midigi/100_days_100_web_project) |
 | 73 | Candy Crush Game | HTML, CSS, JS | 🍭 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 74 | Stock Profit Calculator | HTML, CSS, JS | 📈 Finance | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 75 | Code Jump Space Game | HTML, CSS, JS | 🚀 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
@@ -152,7 +151,7 @@ The website features:
 | 88 | Job Dashboard | HTML, CSS, JS | 💼 Dashboard | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 89 | N-Queen Solver | HTML, CSS, JS | 👑 Algorithm | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 90 | Quiz App Timer | HTML, CSS, JS | ❓ Quiz | [View Demo](https://100-days-100-web-project.vercel.app/) |
-| 91 | Voting App Backend | Node.js, Express | 🗳️ Backend | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 91 | Voting App Backend | Node.js, Express | 🗳️ Backend | [GitHub](https://github.com/d0midigi/100_days_100_web_project) |
 | 92 | Slide Puzzle Game | HTML, CSS, JS | 🧩 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 93 | TextUtils | React | ✏️ React App | [View Demo](https://100-days-100-web-project.vercel.app/) |
 | 94 | Hangman Game | HTML, CSS, JS | 🎮 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
@@ -200,7 +199,7 @@ The easiest way to explore all projects is through our **live website**:
 1. **Clone the repository:**
    ```bash
    # Using Git
-   git clone https://github.com/dhairyagothi/100_days_100_web_project.git
+   git clone https://github.com/d0midigi/100_days_100_web_project.git
    
    # Or use GitHub Desktop for GUI cloning
    ```
@@ -320,23 +319,23 @@ Challenging projects for experienced developers:
 ## 📞 Support & Community
 
 ### 🆘 Need Help?
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/dhairyagothi/100_days_100_web_project/discussions)
-- 🐛 **Bug Reports**: [Open an Issue](https://github.com/dhairyagothi/100_days_100_web_project/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/d0midigi/100_days_100_web_project/discussions)
+- 🐛 **Bug Reports**: [Open an Issue](https://github.com/d0midigi/100_days_100_web_project/issues)
 - 📧 **Direct Contact**: Create an issue for any questions
 
 ### 🌟 Stay Connected
 - 📱 **Instagram**: [@dhairyaa__31](https://www.instagram.com/dhairyaa__31/)
 - 💼 **LinkedIn**: [Dhairya Gothi](https://www.linkedin.com/in/dhairya-gothi-65945b288/)
-- 🐙 **GitHub**: [@dhairyagothi](https://github.com/dhairyagothi)
+- 🐙 **GitHub**: [@d0midigi](https://github.com/d0midigi)
 
 ## 📊 Repository Stats
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/dhairyagothi/100_days_100_web_project?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/dhairyagothi/100_days_100_web_project?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/dhairyagothi/100_days_100_web_project?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/dhairyagothi/100_days_100_web_project?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/d0midigi/100_days_100_web_project?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/d0midigi/100_days_100_web_project?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/d0midigi/100_days_100_web_project?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/d0midigi/100_days_100_web_project?style=for-the-badge)
 
 </div>
 
@@ -354,8 +353,8 @@ Thanks to all these amazing people who have contributed to this project:
 
 <div align="center">
 
-<a href="https://github.com/dhairyagothi/100_days_100_web_project/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dhairyagothi/100_days_100_web_project" />
+<a href="https://github.com/d0midigi/100_days_100_web_project/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=d0midigi/100_days_100_web_project" />
 </a>
 
 </div>
@@ -368,6 +367,6 @@ Thanks to all these amazing people who have contributed to this project:
 
 **🌟 Don't forget to star this repository if you found it helpful!**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dhairyagothi/100_days_100_web_project&type=Date)](https://star-history.com/#dhairyagothi/100_days_100_web_project&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=d0midigi/100_days_100_web_project&type=Date)](https://star-history.com/#d0midigi/100_days_100_web_project&Date)
 
 </div>

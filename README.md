@@ -9,10 +9,6 @@
 ![100 Days, 200 Projects Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&weight=900&pause=1000&color=0FF26C&center=true&width=800&lines=100+Days+100+Web+Projects;Learn+%26+Build+Amazing+Projects;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Node.js)
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2F100-days-100-web-project.vercel.app/%2F&style=for-the-badge)](https://100-days-100-web-project.vercel.app/)
-[![Forks](https://img.shields.io/github/forks/d0midigi/100_days_100_web_project?style=for-the-badge)](https://github.com/d0midigi/100_days_100_web_project/network/members)
-[![Stars](https://img.shields.io/github/stars/d0midigi/100_days_100_web_project?style=for-the-badge)](https://github.com/d0midigi/100_days_100_web_project/stargazers)
-[![Issues](https://img.shields.io/github/issues/d0midigi/100_days_100_web_project?style=for-the-badge)](https://github.com/d0midigi/100_days_100_web_project/issues)
-[![License](https://img.shields.io/github/license/d0midigi/100_days_100_web_project?style=for-the-badge)](LICENSE)
 
 </div>
 

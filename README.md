@@ -1,14 +1,10 @@
 # 🚀 hackherway 100 Days, 200 Projects
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center">
 
 ![100 Days, 200 Projects Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&weight=900&pause=1000&color=0FF26C&center=true&width=800&lines=100+Days+100+Web+Projects;Learn+%26+Build+Amazing+Projects;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Node.js)
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2F100-days-100-web-project.vercel.app/%2F&style=for-the-badge)](https://100-days-100-web-project.vercel.app/)
 
 </div>
 
@@ -202,7 +198,7 @@ The easiest way to explore all projects is through our **live website**:
 
 2. **Navigate to project directory:**
    ```bash
-   cd 100_days_100_web_project
+   cd 100_days_200_projects
    ```
 
 3. **Open the main website:**
@@ -225,7 +221,7 @@ The easiest way to explore all projects is through our **live website**:
 
 ### 🧩 Project Structure
 ```
-100_days_100_web_project/
+100_days_200_projects/
 ├── index.html              # Main showcase website
 ├── index.js               # Main website functionality
 ├── style.css              # Main website styles
@@ -315,25 +311,14 @@ Challenging projects for experienced developers:
 ## 📞 Support & Community
 
 ### 🆘 Need Help?
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/d0midigi/100_days_100_web_project/discussions)
-- 🐛 **Bug Reports**: [Open an Issue](https://github.com/d0midigi/100_days_100_web_project/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/d0midigi/100_days_200_projects/discussions)
+- 🐛 **Bug Reports**: [Open an Issue](https://github.com/d0midigi/100_days_200_projects/issues)
 - 📧 **Direct Contact**: Create an issue for any questions
 
 ### 🌟 Stay Connected
-- 📱 **Instagram**: [@dhairyaa__31](https://www.instagram.com/dhairyaa__31/)
-- 💼 **LinkedIn**: [Dhairya Gothi](https://www.linkedin.com/in/dhairya-gothi-65945b288/)
+- 📱 **Instagram**: (#)
+- 💼 **LinkedIn**: (#)
 - 🐙 **GitHub**: [@d0midigi](https://github.com/d0midigi)
-
-## 📊 Repository Stats
-
-<div align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/d0midigi/100_days_100_web_project?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/d0midigi/100_days_100_web_project?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/d0midigi/100_days_100_web_project?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/d0midigi/100_days_100_web_project?style=for-the-badge)
-
-</div>
 
 ## ⭐ Show Your Support
 
@@ -349,7 +334,7 @@ Thanks to all these amazing people who have contributed to this project:
 
 <div align="center">
 
-<a href="https://github.com/d0midigi/100_days_100_web_project/graphs/contributors">
+<a href="https://github.com/d0midigi/100_days_200_projects/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=d0midigi/100_days_100_web_project" />
 </a>
 
@@ -362,7 +347,5 @@ Thanks to all these amazing people who have contributed to this project:
 **💖 Made with love by the open source community**
 
 **🌟 Don't forget to star this repository if you found it helpful!**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=d0midigi/100_days_100_web_project&type=Date)](https://star-history.com/#d0midigi/100_days_100_web_project&Date)
 
 </div>
